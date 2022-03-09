@@ -1,6 +1,6 @@
 {
-    "name": "carte",
-    "description": "Simple API reference",
+    "name": "Doctrine Database",
+    "description": "List of doctrines",
     "version": "0.0.1",
     "local": ["boot"],
     "paths": ["lib"]
